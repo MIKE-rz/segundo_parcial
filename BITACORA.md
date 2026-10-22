@@ -1,0 +1,45 @@
+SEGUNDO PARCIAL
+1. Venta de boletos de cine
+2. Consumo de combustible
+0. Salir
+Seleccione una opción (0-2): 1
+Ingrese la cantidad de boletos a comprar (entero mayor que cero): 3
++-----------------------+---------+
+| Cantidad de boletos   | 3       |
++=======================+=========+
+| Precio unitario       | $75.00  |
++-----------------------+---------+
+| Subtotal              | $225.00 |
++-----------------------+---------+
+| Descuento             | $0.00   |
++-----------------------+---------+
+| Total a pagar         | $225.00 |
++-----------------------+---------+
+
+SEGUNDO PARCIAL
+1. Venta de boletos de cine
+2. Consumo de combustible
+0. Salir
+Seleccione una opción (0-2): 2
+Ingrese la distancia recorrida en kilómetros (mayor que cero): 250
+Ingrese la cantidad de litros consumidos (mayor que cero): 20
++----------------------------+---------+
+| Distancia recorrida (km)   |   250.0 |
++============================+=========+
+| Litros consumidos          |    20   |
++----------------------------+---------+
+| Precio por litro ($)       |    24   |
++----------------------------+---------+
+| Rendimiento (km/L)         |    12.5 |
++----------------------------+---------+
+| Costo total ($)            |   480   |
++----------------------------+---------+
+
+
+
+SEGUNDO PARCIAL
+1. Venta de boletos de cine
+2. Consumo de combustible
+0. Salir
+Seleccione una opción (0-2): 0
+Saliendo del programa. ¡Hasta luego!
